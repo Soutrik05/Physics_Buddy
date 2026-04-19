@@ -276,4 +276,4 @@ This would require:
 
 ---
 
-*"The notebook is the whiteboard. The .py files are the product."*
+
